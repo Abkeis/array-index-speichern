@@ -1,0 +1,15 @@
+/Users/nouralddenalmoqry/Projects/Indexspeichern/Indexspeichern/bin/Debug/net6.0/Indexspeichern
+/Users/nouralddenalmoqry/Projects/Indexspeichern/Indexspeichern/bin/Debug/net6.0/Indexspeichern.deps.json
+/Users/nouralddenalmoqry/Projects/Indexspeichern/Indexspeichern/bin/Debug/net6.0/Indexspeichern.runtimeconfig.json
+/Users/nouralddenalmoqry/Projects/Indexspeichern/Indexspeichern/bin/Debug/net6.0/Indexspeichern.dll
+/Users/nouralddenalmoqry/Projects/Indexspeichern/Indexspeichern/bin/Debug/net6.0/Indexspeichern.pdb
+/Users/nouralddenalmoqry/Projects/Indexspeichern/Indexspeichern/obj/Debug/net6.0/Indexspeichern.csproj.AssemblyReference.cache
+/Users/nouralddenalmoqry/Projects/Indexspeichern/Indexspeichern/obj/Debug/net6.0/Indexspeichern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nouralddenalmoqry/Projects/Indexspeichern/Indexspeichern/obj/Debug/net6.0/Indexspeichern.AssemblyInfoInputs.cache
+/Users/nouralddenalmoqry/Projects/Indexspeichern/Indexspeichern/obj/Debug/net6.0/Indexspeichern.AssemblyInfo.cs
+/Users/nouralddenalmoqry/Projects/Indexspeichern/Indexspeichern/obj/Debug/net6.0/Indexspeichern.csproj.CoreCompileInputs.cache
+/Users/nouralddenalmoqry/Projects/Indexspeichern/Indexspeichern/obj/Debug/net6.0/Indexspeichern.dll
+/Users/nouralddenalmoqry/Projects/Indexspeichern/Indexspeichern/obj/Debug/net6.0/refint/Indexspeichern.dll
+/Users/nouralddenalmoqry/Projects/Indexspeichern/Indexspeichern/obj/Debug/net6.0/Indexspeichern.pdb
+/Users/nouralddenalmoqry/Projects/Indexspeichern/Indexspeichern/obj/Debug/net6.0/Indexspeichern.genruntimeconfig.cache
+/Users/nouralddenalmoqry/Projects/Indexspeichern/Indexspeichern/obj/Debug/net6.0/ref/Indexspeichern.dll
